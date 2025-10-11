@@ -1,0 +1,1001 @@
+CustomerID,CustomerName,AgeGroup,Region,ProductInterest
+C2000,Mrs. Stephanie Nelson,26-35,West,Bundle
+C2001,Allison Grant,26-35,South,Broadband
+C2002,Douglas Tate,36-50,West,Broadband
+C2003,Jeffrey Clark,51+,East,Bundle
+C2004,Roger Campbell,18-25,North,Bundle
+C2005,Kristi Powell,36-50,West,Mobile Plan
+C2006,Sarah Fernandez,18-25,East,Broadband
+C2007,Faith King,26-35,East,Bundle
+C2008,Julie Riley,51+,South,TV Package
+C2009,Matthew Sanchez,26-35,West,TV Package
+C2010,Eric Robinson,18-25,North,Broadband
+C2011,Heather Fowler,18-25,South,Bundle
+C2012,Michelle Reyes,36-50,West,Broadband
+C2013,Amy Walker,26-35,North,TV Package
+C2014,Dan Shaffer,51+,South,Broadband
+C2015,Kim Reyes,36-50,North,Broadband
+C2016,Jennifer Reid,36-50,North,Broadband
+C2017,Sara Porter,36-50,East,Broadband
+C2018,Kurt Price,26-35,East,TV Package
+C2019,Bryan Spencer,51+,West,Bundle
+C2020,Jonathan Marks,18-25,North,Mobile Plan
+C2021,Christine Moreno,51+,East,Mobile Plan
+C2022,Laura Rodriguez,18-25,North,Broadband
+C2023,Steven Burgess,18-25,North,Bundle
+C2024,Terry Smith,51+,West,Mobile Plan
+C2025,Timothy Clark,51+,North,TV Package
+C2026,Nathan Holland,26-35,West,Mobile Plan
+C2027,Robert Scott,18-25,East,Mobile Plan
+C2028,Shannon Mcguire,18-25,West,Broadband
+C2029,Morgan Lin,36-50,East,TV Package
+C2030,Gwendolyn Hopkins,18-25,South,Bundle
+C2031,Lynn Chen,36-50,North,Broadband
+C2032,Sara Williams,26-35,North,TV Package
+C2033,Austin Miller,18-25,West,Broadband
+C2034,Chad Chan,26-35,East,Bundle
+C2035,Jaime Lowe,26-35,South,TV Package
+C2036,Eric Hicks,51+,West,Broadband
+C2037,Tabitha Carrillo,51+,East,Broadband
+C2038,Daniel Chavez,51+,North,Bundle
+C2039,Mary Leon,51+,North,Bundle
+C2040,James Davenport,26-35,East,Bundle
+C2041,Veronica Rangel,51+,North,Broadband
+C2042,John Jensen,18-25,South,Mobile Plan
+C2043,Anna Daniels,36-50,West,Mobile Plan
+C2044,Gregory Harrison,26-35,North,Mobile Plan
+C2045,Zachary Freeman,18-25,South,Bundle
+C2046,Heather Olson,36-50,West,Bundle
+C2047,Nicole Cook,18-25,South,Mobile Plan
+C2048,Erika Moore,26-35,South,Broadband
+C2049,Donna Wood,18-25,South,Bundle
+C2050,Jeremy Ramirez,18-25,North,Bundle
+C2051,Michelle Pierce,36-50,South,Mobile Plan
+C2052,Bradley Kemp,51+,North,Mobile Plan
+C2053,Anthony Barrera,18-25,North,Bundle
+C2054,Amy Watson,51+,North,Bundle
+C2055,Stephen Cohen,26-35,South,TV Package
+C2056,Kathryn Johnson,36-50,West,TV Package
+C2057,Anthony Marshall,51+,North,Mobile Plan
+C2058,Steven Cook,18-25,West,TV Package
+C2059,Michael James,26-35,East,Mobile Plan
+C2060,Erin Allen,26-35,East,Mobile Plan
+C2061,Timothy Coleman,51+,West,Broadband
+C2062,Heather English,26-35,North,Mobile Plan
+C2063,Margaret Cook,18-25,West,Bundle
+C2064,Vanessa Carroll,51+,South,Mobile Plan
+C2065,David Torres,26-35,South,TV Package
+C2066,Kimberly Le,18-25,North,Mobile Plan
+C2067,Bruce Parrish,36-50,North,Broadband
+C2068,Thomas Conrad,36-50,North,TV Package
+C2069,Jeffrey Dawson,26-35,West,Mobile Plan
+C2070,Melanie Adams,51+,South,Mobile Plan
+C2071,Benjamin Hansen,36-50,West,Broadband
+C2072,Heather Powers,26-35,North,Bundle
+C2073,Pamela Lee,26-35,South,Mobile Plan
+C2074,Kristine Woods,51+,North,Mobile Plan
+C2075,Jacqueline Carter,36-50,West,Mobile Plan
+C2076,Antonio Mccoy,18-25,West,Bundle
+C2077,Lisa Smith DDS,26-35,North,TV Package
+C2078,Casey Sullivan,18-25,South,TV Package
+C2079,Andrew York,18-25,South,TV Package
+C2080,Kathryn Martinez,36-50,West,Broadband
+C2081,David Bennett,36-50,East,Bundle
+C2082,Misty Sanders,36-50,South,Mobile Plan
+C2083,Frank Smith,36-50,West,Broadband
+C2084,Elizabeth Vargas,51+,South,Bundle
+C2085,Michelle Hall,26-35,North,TV Package
+C2086,Clifford Rowe,51+,South,Bundle
+C2087,Steven Roberts,51+,North,Bundle
+C2088,Joshua Ramirez,36-50,South,TV Package
+C2089,Stephanie Livingston,51+,East,TV Package
+C2090,Stephanie Smith,36-50,East,Bundle
+C2091,Christine Nolan,51+,South,Mobile Plan
+C2092,Albert Rivers,18-25,South,Broadband
+C2093,Kathleen Howard,51+,North,Mobile Plan
+C2094,George Jones,26-35,North,TV Package
+C2095,Tyler Smith,18-25,East,Mobile Plan
+C2096,Bobby Adams,51+,West,Broadband
+C2097,Tammy Lee,18-25,West,TV Package
+C2098,John Wade,36-50,West,Broadband
+C2099,Nancy Riddle,18-25,South,Mobile Plan
+C2100,Nathan Walker,36-50,North,TV Package
+C2101,Andrew Gomez,51+,West,Bundle
+C2102,Michelle Hale,51+,North,Mobile Plan
+C2103,Lucas Lee,36-50,West,Broadband
+C2104,Katie Long,51+,West,Mobile Plan
+C2105,Charles Marshall,26-35,North,Bundle
+C2106,David Kim,51+,East,TV Package
+C2107,Veronica Green,36-50,South,Mobile Plan
+C2108,Jessica Walker,26-35,North,Bundle
+C2109,Timothy Jones,26-35,North,Mobile Plan
+C2110,Aaron Sanchez,18-25,South,Bundle
+C2111,Kristen Richard,36-50,West,Mobile Plan
+C2112,John Mejia,26-35,West,Mobile Plan
+C2113,Jamie Burns,51+,East,Mobile Plan
+C2114,Donald Marquez DDS,26-35,South,Broadband
+C2115,Karen Dyer,26-35,North,Mobile Plan
+C2116,Jonathan Case,18-25,North,Broadband
+C2117,Alexander Martin,26-35,East,Bundle
+C2118,James Faulkner,18-25,East,TV Package
+C2119,Nicholas Doyle,26-35,West,Broadband
+C2120,Gavin Garrison,18-25,East,Broadband
+C2121,Karen Henry,18-25,East,Broadband
+C2122,Mark Knight,26-35,West,Mobile Plan
+C2123,Robin Jones,18-25,North,Bundle
+C2124,James Clark,26-35,East,Bundle
+C2125,Terry Carter MD,51+,South,Broadband
+C2126,Katie Thomas,51+,North,Broadband
+C2127,Leslie Wheeler,18-25,North,Broadband
+C2128,Rebecca Miller,18-25,West,Bundle
+C2129,Mr. Robert Mcdaniel,26-35,North,TV Package
+C2130,Jesus Simpson,36-50,West,Bundle
+C2131,Craig Bennett,18-25,South,TV Package
+C2132,Ebony Moore,18-25,East,Broadband
+C2133,Mary Warner,18-25,West,Bundle
+C2134,Mrs. Brenda Reyes,51+,North,Mobile Plan
+C2135,Dawn Mosley,51+,South,Broadband
+C2136,Anthony Kent,36-50,North,TV Package
+C2137,Kayla York,51+,South,TV Package
+C2138,Tina Franklin,26-35,West,Broadband
+C2139,Brenda Park,18-25,East,Mobile Plan
+C2140,Gregory Donovan,26-35,East,Mobile Plan
+C2141,Robert Mckee,51+,East,Broadband
+C2142,Eric Moody,51+,North,Bundle
+C2143,Dawn Hanna,36-50,East,Mobile Plan
+C2144,Jason White,36-50,West,TV Package
+C2145,Anthony Smith,26-35,East,Broadband
+C2146,Mary Mccoy,51+,East,Broadband
+C2147,Michelle Flynn,26-35,West,Bundle
+C2148,James Jones,36-50,East,Bundle
+C2149,Amber Smith,51+,South,Bundle
+C2150,Ashley Morrow,36-50,West,Bundle
+C2151,Julie Brown,51+,South,TV Package
+C2152,Mary Wright,26-35,West,Broadband
+C2153,Brent Morris,51+,North,Mobile Plan
+C2154,Mr. Steven Dunn,51+,West,TV Package
+C2155,Eric Hawkins,51+,South,Bundle
+C2156,Gina Williams,26-35,South,Mobile Plan
+C2157,John Evans,18-25,West,TV Package
+C2158,David Todd,26-35,South,TV Package
+C2159,Teresa Meyers,18-25,North,Bundle
+C2160,Brandon Dennis,18-25,East,Mobile Plan
+C2161,Alex Dickerson,51+,East,Broadband
+C2162,Juan Callahan,51+,South,Bundle
+C2163,Amber Reilly,26-35,West,Mobile Plan
+C2164,Dr. Michele Rodriguez,51+,West,Bundle
+C2165,Zachary Scott,51+,East,Mobile Plan
+C2166,Ashley Bridges,51+,South,Mobile Plan
+C2167,Jason Duarte,18-25,North,Mobile Plan
+C2168,Gavin Williams,26-35,South,Mobile Plan
+C2169,Eric Davis,18-25,West,Mobile Plan
+C2170,Melissa Romero,26-35,North,Broadband
+C2171,Timothy Barnes II,26-35,West,Mobile Plan
+C2172,Kimberly Mercado,18-25,South,Broadband
+C2173,Raymond Orr,26-35,North,Broadband
+C2174,Alexis Ramirez,26-35,South,Mobile Plan
+C2175,Chad White,36-50,West,Bundle
+C2176,Michelle Hebert,51+,West,TV Package
+C2177,Jaime Jackson,26-35,West,Broadband
+C2178,Lucas Robinson,18-25,South,Bundle
+C2179,David Walton,18-25,South,Mobile Plan
+C2180,Melanie Bowman,26-35,North,Bundle
+C2181,Thomas Jackson,18-25,East,Broadband
+C2182,Philip Campbell,18-25,North,TV Package
+C2183,Caleb Nguyen,36-50,North,Broadband
+C2184,Ricardo Cook,18-25,West,TV Package
+C2185,Gary Lozano,51+,North,TV Package
+C2186,Stephanie Schneider,26-35,South,TV Package
+C2187,David Weber,26-35,East,Broadband
+C2188,Emma Mason,26-35,East,TV Package
+C2189,Mark Jones,36-50,North,Bundle
+C2190,Diana Miller,26-35,South,Broadband
+C2191,Susan Ferguson,26-35,West,Bundle
+C2192,Rita Roberts,18-25,North,Broadband
+C2193,Douglas Moran,18-25,South,TV Package
+C2194,David Ellison,51+,West,TV Package
+C2195,Scott Chambers,36-50,East,Mobile Plan
+C2196,Ricardo Lester,26-35,South,Bundle
+C2197,Michael Li,18-25,North,TV Package
+C2198,Mr. Glenn Schwartz,36-50,North,TV Package
+C2199,Elizabeth Bray,18-25,East,Bundle
+C2200,Ian Ellis,18-25,South,Broadband
+C2201,Dawn Chan,26-35,West,TV Package
+C2202,Stephanie Harvey,18-25,East,Bundle
+C2203,Matthew Harris,51+,South,TV Package
+C2204,Tracy Johnson,51+,North,TV Package
+C2205,Christine Flores,36-50,East,TV Package
+C2206,Jared Odom,18-25,South,Mobile Plan
+C2207,David Kidd,26-35,West,Bundle
+C2208,Kenneth Sanchez,51+,North,Bundle
+C2209,Donald Parker,18-25,North,Mobile Plan
+C2210,Peter Gordon,26-35,North,Broadband
+C2211,Brandi Rios,36-50,South,TV Package
+C2212,Mrs. Susan Ramirez,26-35,South,Broadband
+C2213,Dennis Walsh,18-25,North,TV Package
+C2214,Samuel Gonzalez,26-35,West,Mobile Plan
+C2215,Andrew West,18-25,East,Broadband
+C2216,Sarah Johnson,18-25,West,Broadband
+C2217,Carrie Marquez,26-35,East,Broadband
+C2218,Alexis Thompson,18-25,South,TV Package
+C2219,Ashley Mccoy,36-50,East,Mobile Plan
+C2220,Daniel Rogers,26-35,South,Mobile Plan
+C2221,Jason Harmon,51+,North,Mobile Plan
+C2222,Kenneth White,36-50,North,Broadband
+C2223,Nicole Vasquez,26-35,West,Mobile Plan
+C2224,Sara Newman,18-25,South,Mobile Plan
+C2225,Michelle Watson,26-35,West,TV Package
+C2226,Luis Taylor,51+,East,Bundle
+C2227,Kaylee Sanders,18-25,North,Bundle
+C2228,Kimberly Travis,36-50,North,Bundle
+C2229,Mike Cervantes,18-25,West,TV Package
+C2230,Tracey Terry,26-35,East,Broadband
+C2231,Katherine Sawyer,36-50,South,Bundle
+C2232,Barbara Moore,51+,North,TV Package
+C2233,Mr. Matthew Jones,26-35,East,Mobile Plan
+C2234,Jamie Turner,36-50,East,Bundle
+C2235,Kristina Serrano,26-35,West,Broadband
+C2236,Diane Murphy,18-25,North,Mobile Plan
+C2237,Emily Schmidt,18-25,West,TV Package
+C2238,Daniel Mcdowell,51+,South,Mobile Plan
+C2239,Sharon Jarvis,51+,West,Broadband
+C2240,Christopher Hall,51+,East,TV Package
+C2241,Christopher Evans,51+,North,Mobile Plan
+C2242,Jennifer Larsen,36-50,East,Mobile Plan
+C2243,Anthony Pineda,26-35,East,Broadband
+C2244,Antonio Black,51+,North,Broadband
+C2245,Mr. Juan Beard,18-25,South,Bundle
+C2246,Aaron Washington,51+,West,TV Package
+C2247,Rachel Carson,51+,South,Broadband
+C2248,John Bowers,36-50,West,Broadband
+C2249,Amy Harrington,36-50,North,Broadband
+C2250,Natalie Fisher,36-50,East,Mobile Plan
+C2251,Linda Long,36-50,South,Mobile Plan
+C2252,Luis Jackson,36-50,West,Mobile Plan
+C2253,Timothy Walters,36-50,West,Broadband
+C2254,Beverly Stafford,36-50,East,Broadband
+C2255,Joseph Frazier,51+,North,Bundle
+C2256,Shelby Wolf,36-50,North,Broadband
+C2257,Margaret Smith,18-25,West,Bundle
+C2258,Clinton Fitzgerald,18-25,South,Broadband
+C2259,Laura Jones,36-50,South,TV Package
+C2260,Stephanie Guerrero,26-35,North,Bundle
+C2261,Henry Whitney,51+,West,Mobile Plan
+C2262,Matthew Luna,51+,East,TV Package
+C2263,Michelle Powers,51+,North,Mobile Plan
+C2264,Troy Ward,51+,North,Mobile Plan
+C2265,Eric Petersen,18-25,West,Broadband
+C2266,Nicolas Gray,36-50,East,Mobile Plan
+C2267,Kathleen Richardson,26-35,North,TV Package
+C2268,Caleb Stout,51+,North,Mobile Plan
+C2269,Kayla Boyer,51+,West,Bundle
+C2270,Brian Salas,51+,East,TV Package
+C2271,Alexis Cox,26-35,North,Broadband
+C2272,Christopher Smith MD,18-25,East,Mobile Plan
+C2273,Gina Bowen,36-50,South,Bundle
+C2274,John Palmer PhD,36-50,North,TV Package
+C2275,Scott Bauer,51+,North,Mobile Plan
+C2276,Jessica Knight,36-50,North,Mobile Plan
+C2277,Leroy Martinez,18-25,East,Broadband
+C2278,Angela Dickson,26-35,West,Mobile Plan
+C2279,Luis Ortiz,18-25,South,Broadband
+C2280,Virginia Harris,36-50,East,Bundle
+C2281,Christine Atkinson,26-35,South,Mobile Plan
+C2282,Ashley Warner,51+,East,TV Package
+C2283,Linda Mcmillan,36-50,East,TV Package
+C2284,James Morris,51+,North,Broadband
+C2285,Bonnie Mendez,36-50,North,Broadband
+C2286,Joseph Castro,18-25,East,Mobile Plan
+C2287,Kevin Perry,51+,South,Mobile Plan
+C2288,Nicole Miller,51+,North,TV Package
+C2289,Wendy Parker,51+,North,TV Package
+C2290,Kevin James,26-35,North,Bundle
+C2291,Alejandro Ballard,26-35,South,TV Package
+C2292,Kelly Black,26-35,South,Mobile Plan
+C2293,Alexander Romero,18-25,East,Broadband
+C2294,Tammy Garcia,26-35,North,TV Package
+C2295,Lisa Christensen,36-50,West,Mobile Plan
+C2296,Cynthia Boyd,36-50,North,Mobile Plan
+C2297,Keith Gordon,26-35,North,Bundle
+C2298,Alexandra Reynolds,36-50,North,Bundle
+C2299,Latoya Figueroa,18-25,East,TV Package
+C2300,Jonathan Estrada,36-50,East,Bundle
+C2301,Martin King,26-35,West,TV Package
+C2302,Edwin Coleman,51+,North,Bundle
+C2303,Martha Pollard,26-35,West,Broadband
+C2304,Juan Bailey,26-35,North,TV Package
+C2305,Rebecca Ramos,26-35,South,Mobile Plan
+C2306,John George,36-50,South,Broadband
+C2307,Andrew Donaldson,18-25,West,Bundle
+C2308,Brian Mckinney,18-25,East,TV Package
+C2309,Michael Kennedy,51+,North,TV Package
+C2310,Melanie Brennan,36-50,East,Broadband
+C2311,Dale Baker,18-25,South,Broadband
+C2312,Michelle Jones,26-35,West,Bundle
+C2313,Anthony Cooper,36-50,West,Mobile Plan
+C2314,Robert Harding,26-35,South,Mobile Plan
+C2315,Jamie Rowe,36-50,West,TV Package
+C2316,Kaylee Obrien,36-50,North,TV Package
+C2317,Kristen Santiago,18-25,South,Bundle
+C2318,Jacob Carpenter,26-35,East,Broadband
+C2319,Jessica Coleman,26-35,West,TV Package
+C2320,Gregory Gomez,18-25,West,Bundle
+C2321,Scott Henry,36-50,South,Bundle
+C2322,Alicia Farmer,26-35,North,Bundle
+C2323,Christian Jackson,51+,South,Bundle
+C2324,Ashlee Espinoza,26-35,East,Broadband
+C2325,Rachel Mason,18-25,South,Mobile Plan
+C2326,Kathryn Campbell,51+,West,Broadband
+C2327,Judy Anthony,36-50,North,TV Package
+C2328,Heather Griffin,18-25,North,Mobile Plan
+C2329,Julia Sanchez,51+,South,Mobile Plan
+C2330,Caroline Williams,18-25,West,TV Package
+C2331,Adam Williams,18-25,North,Bundle
+C2332,Sarah Bowman MD,36-50,West,Mobile Plan
+C2333,Victor Perry,18-25,South,Mobile Plan
+C2334,Julie Fernandez,36-50,West,Mobile Plan
+C2335,Sara Mueller,18-25,East,Broadband
+C2336,Nathaniel Lewis,18-25,East,Broadband
+C2337,Aaron Massey,51+,East,Mobile Plan
+C2338,Bobby Cunningham,26-35,South,Bundle
+C2339,David Caldwell,18-25,East,Mobile Plan
+C2340,Dawn Patel,26-35,North,Mobile Plan
+C2341,Eric Wells,26-35,East,Broadband
+C2342,Jesse Anderson,51+,South,TV Package
+C2343,Brittany Woods,51+,East,Bundle
+C2344,Andrew Ramos,18-25,East,TV Package
+C2345,Matthew Whitaker,18-25,West,Broadband
+C2346,Michael King,51+,South,Mobile Plan
+C2347,John Brown,18-25,East,Mobile Plan
+C2348,James Kelly MD,51+,West,Bundle
+C2349,Melinda Meza,36-50,North,Broadband
+C2350,Samantha Johnson,36-50,East,TV Package
+C2351,Michael Rodriguez,18-25,South,TV Package
+C2352,Christopher Mckenzie,18-25,East,Mobile Plan
+C2353,David Mckenzie,26-35,North,Bundle
+C2354,Nicole Clarke,36-50,West,Broadband
+C2355,Mark Miller,36-50,West,Bundle
+C2356,Jacob Howard,26-35,North,Broadband
+C2357,Gina Hill,51+,South,Bundle
+C2358,Sarah Solis,26-35,North,Broadband
+C2359,Rachel Payne,18-25,East,TV Package
+C2360,Tommy Marquez,51+,East,Bundle
+C2361,Mark Davenport,26-35,South,Mobile Plan
+C2362,Gary Rivera,51+,South,TV Package
+C2363,Kimberly Barajas,18-25,North,TV Package
+C2364,Valerie Lucas,26-35,North,TV Package
+C2365,Roger Smith,26-35,West,Bundle
+C2366,Kimberly Harrison,51+,West,Broadband
+C2367,Wayne Cabrera,51+,East,TV Package
+C2368,Anna Wright,36-50,West,Broadband
+C2369,Tiffany Flynn,26-35,West,Bundle
+C2370,Chelsey Richardson,36-50,East,Bundle
+C2371,Ashley Miller,18-25,East,Bundle
+C2372,Kerry Oliver,36-50,West,TV Package
+C2373,Angelica Sullivan,36-50,North,Mobile Plan
+C2374,Heather Mcmahon,26-35,West,Mobile Plan
+C2375,Elizabeth Harris,36-50,East,Broadband
+C2376,Megan Austin,18-25,North,Broadband
+C2377,Joseph Arnold,36-50,North,TV Package
+C2378,Oscar Norton,26-35,West,Broadband
+C2379,Edward Evans,18-25,South,Mobile Plan
+C2380,Brittany Williams,51+,West,Mobile Plan
+C2381,Jessica King,36-50,North,Broadband
+C2382,Christopher Johnson,18-25,North,Broadband
+C2383,Michael Nelson,51+,North,Mobile Plan
+C2384,Melissa Baker,36-50,East,Broadband
+C2385,Kim Martin,51+,East,Mobile Plan
+C2386,Shannon Brown,51+,North,TV Package
+C2387,Brandon Lambert,51+,North,Broadband
+C2388,Karen Moore,51+,South,Mobile Plan
+C2389,Jacob Delacruz,26-35,West,Mobile Plan
+C2390,Alexis Martinez,26-35,West,Bundle
+C2391,Jessica Cruz,36-50,North,Broadband
+C2392,Timothy Gonzalez,51+,West,TV Package
+C2393,Kenneth Stanton,51+,South,Bundle
+C2394,Samantha Sawyer,26-35,East,Broadband
+C2395,William Smith,36-50,South,TV Package
+C2396,Christine Greene,18-25,South,Bundle
+C2397,Katherine Williams,51+,South,Bundle
+C2398,Madeline Rodriguez,51+,West,Broadband
+C2399,David Sellers,36-50,South,Mobile Plan
+C2400,Joseph Simon,36-50,South,Mobile Plan
+C2401,Jaime Clark,36-50,East,Mobile Plan
+C2402,Michelle Martinez,51+,East,Broadband
+C2403,Victoria Cook,18-25,South,Broadband
+C2404,Sydney Moore,51+,West,Broadband
+C2405,Melanie Moody,18-25,North,Bundle
+C2406,Mrs. Donna Pierce MD,51+,East,Broadband
+C2407,Dawn Coleman,51+,North,Mobile Plan
+C2408,Stacey Arnold,51+,West,TV Package
+C2409,Eric Carpenter,18-25,North,Mobile Plan
+C2410,George Smith,51+,North,Bundle
+C2411,Laura Rice,18-25,East,TV Package
+C2412,Brandy Moore,51+,North,TV Package
+C2413,Craig Patterson,18-25,East,TV Package
+C2414,Edward Bradford,36-50,West,Mobile Plan
+C2415,April Roman,18-25,South,Bundle
+C2416,Andrew Martinez,26-35,South,TV Package
+C2417,William Williams,18-25,North,Broadband
+C2418,Eric Thomas,26-35,East,Mobile Plan
+C2419,Zachary Harris,51+,East,TV Package
+C2420,Lisa Mullins,51+,West,Broadband
+C2421,Ryan King,18-25,East,Bundle
+C2422,Christopher Goodman,36-50,West,Mobile Plan
+C2423,Michael Brock,51+,West,Mobile Plan
+C2424,Stacey Green,26-35,East,Broadband
+C2425,Beverly Thompson,51+,North,Broadband
+C2426,Theresa Jones,18-25,North,Bundle
+C2427,John Miller,36-50,West,TV Package
+C2428,Jamie Schmidt,18-25,South,Mobile Plan
+C2429,Amy Harris,26-35,North,Bundle
+C2430,Robert Roach,18-25,South,TV Package
+C2431,Kendra Rangel,18-25,North,Broadband
+C2432,Julie Cabrera,26-35,East,TV Package
+C2433,Kenneth Carr,51+,West,TV Package
+C2434,Lori Brooks,18-25,North,Broadband
+C2435,Stacy Hogan,36-50,East,Broadband
+C2436,Anthony Owen,26-35,East,TV Package
+C2437,Rebecca Kline,51+,East,Broadband
+C2438,William Palmer,51+,West,Broadband
+C2439,Lisa King,18-25,West,Bundle
+C2440,Sarah Smith,36-50,East,Broadband
+C2441,Justin Montoya,26-35,West,TV Package
+C2442,Ann Cantu,51+,North,Mobile Plan
+C2443,Joseph Francis,36-50,South,TV Package
+C2444,Angela Rocha,18-25,North,Mobile Plan
+C2445,Edward Mills,18-25,East,Broadband
+C2446,Amanda Blair,26-35,East,Mobile Plan
+C2447,Carl Gilmore,26-35,West,Broadband
+C2448,Mary Scott,51+,South,Bundle
+C2449,Brandon Acosta,18-25,West,Bundle
+C2450,Jack Baker,51+,East,Mobile Plan
+C2451,Nicole Fritz,36-50,North,Bundle
+C2452,Cassandra Brewer,18-25,North,Mobile Plan
+C2453,Angela Flores,36-50,North,TV Package
+C2454,Alexandra Hall,36-50,East,TV Package
+C2455,Laura Estrada,51+,West,TV Package
+C2456,Shawna Tucker,18-25,North,Bundle
+C2457,Debra Anderson,51+,South,TV Package
+C2458,Kevin Wilson,51+,North,TV Package
+C2459,Garrett Johnson,18-25,North,Broadband
+C2460,Kevin Bailey,18-25,South,Mobile Plan
+C2461,Jessica Obrien,26-35,South,TV Package
+C2462,Paul Jones,18-25,East,Broadband
+C2463,Stephen Macdonald,26-35,North,Broadband
+C2464,Justin Kerr,51+,East,Bundle
+C2465,Amanda Love,36-50,East,Bundle
+C2466,Michael Williams,36-50,West,Broadband
+C2467,Jeffrey Roman,26-35,East,Bundle
+C2468,Christopher Hale,36-50,South,Mobile Plan
+C2469,Cody Young,26-35,East,TV Package
+C2470,Tammy Graham,18-25,South,Broadband
+C2471,Pamela Watts,26-35,East,Broadband
+C2472,Eric Gutierrez,18-25,North,Mobile Plan
+C2473,Lindsay Cunningham,36-50,South,Bundle
+C2474,Isaac Campos,51+,West,TV Package
+C2475,Gerald Parker,18-25,North,Bundle
+C2476,Krista Harris,36-50,North,Broadband
+C2477,Joshua Thomas,26-35,West,Bundle
+C2478,Kim King,26-35,West,Broadband
+C2479,Nicole Harmon,18-25,North,Bundle
+C2480,Eric Oliver,51+,North,Bundle
+C2481,Shelby Robinson,18-25,West,Broadband
+C2482,Jennifer Jones,51+,South,Mobile Plan
+C2483,Jennifer Greene,26-35,South,Bundle
+C2484,Michael Dickerson,26-35,West,Mobile Plan
+C2485,Margaret Villegas,18-25,North,Broadband
+C2486,Jennifer Joseph,51+,North,Broadband
+C2487,Patricia Bailey,26-35,West,TV Package
+C2488,Morgan Sanchez,51+,North,Mobile Plan
+C2489,Emily Robles,36-50,South,Bundle
+C2490,Steven Adams,26-35,North,Broadband
+C2491,Mrs. Cindy Erickson,26-35,West,Bundle
+C2492,Michelle Gonzales,36-50,North,Mobile Plan
+C2493,Alicia Combs,18-25,South,Broadband
+C2494,Gavin Watts,36-50,South,Bundle
+C2495,James Rodriguez,18-25,North,Bundle
+C2496,Nicole White,18-25,North,TV Package
+C2497,Dennis Townsend,51+,South,Mobile Plan
+C2498,Joseph Stevenson,18-25,East,Mobile Plan
+C2499,Ashley Taylor,36-50,North,TV Package
+C2500,Christopher Alexander DDS,51+,South,Bundle
+C2501,Lisa Hill,26-35,East,TV Package
+C2502,Jessica Cummings,18-25,East,Broadband
+C2503,Steven Clark,36-50,North,Bundle
+C2504,Sandra Beasley,18-25,West,Bundle
+C2505,Julie Ross,26-35,South,TV Package
+C2506,Kevin Clements,26-35,North,Bundle
+C2507,Katherine Williams,51+,South,Mobile Plan
+C2508,Lisa Williams,26-35,North,TV Package
+C2509,Chelsea Berry,51+,East,TV Package
+C2510,Sarah Moran,51+,North,Bundle
+C2511,Kevin Orr DVM,18-25,West,Mobile Plan
+C2512,Matthew Jones,36-50,East,Mobile Plan
+C2513,Mrs. Mary Morris,51+,West,Broadband
+C2514,David Richardson,26-35,East,Mobile Plan
+C2515,Laura Jones,36-50,South,Bundle
+C2516,Mary Hernandez,51+,North,Broadband
+C2517,Andrea Frye,26-35,South,Broadband
+C2518,Lawrence Velez,51+,North,TV Package
+C2519,Kathy Arellano,26-35,East,Bundle
+C2520,Morgan Winters,18-25,North,Bundle
+C2521,Mr. Christopher Ortiz MD,36-50,West,TV Package
+C2522,Leslie Rodriguez,26-35,North,Broadband
+C2523,Kimberly Lowery,18-25,West,TV Package
+C2524,Charles Conrad,36-50,West,Mobile Plan
+C2525,Stephanie Campos,51+,East,TV Package
+C2526,Mrs. Melanie Mckay,26-35,West,TV Package
+C2527,Gregory Velez,51+,East,TV Package
+C2528,Nicholas Goodwin,36-50,West,Bundle
+C2529,Elizabeth Reynolds,18-25,North,Broadband
+C2530,Christopher Ashley,51+,East,TV Package
+C2531,Patrick Cook,51+,North,Bundle
+C2532,Misty Jackson,36-50,North,Bundle
+C2533,Michael Adams,36-50,North,TV Package
+C2534,Robert Reed,36-50,North,Bundle
+C2535,Mason Sandoval,51+,North,TV Package
+C2536,Kyle Le,26-35,South,Mobile Plan
+C2537,Tammy Dixon,26-35,North,TV Package
+C2538,Christine Frederick,36-50,West,Mobile Plan
+C2539,Danny Fitzgerald,51+,West,TV Package
+C2540,Vickie Ortega,18-25,East,TV Package
+C2541,Sandra Guerra MD,26-35,North,TV Package
+C2542,Lance Avila,51+,South,Broadband
+C2543,Mr. Joseph Compton,26-35,East,TV Package
+C2544,Thomas Greene,36-50,West,TV Package
+C2545,Darin Underwood,36-50,West,Bundle
+C2546,Michelle Cortez,26-35,South,Broadband
+C2547,John Smith,36-50,South,Broadband
+C2548,Madison Cervantes,36-50,East,TV Package
+C2549,Raymond Ewing,51+,South,Mobile Plan
+C2550,Danny Riddle,36-50,South,Bundle
+C2551,Sergio Doyle,26-35,East,Broadband
+C2552,James Hunt,18-25,East,Mobile Plan
+C2553,Matthew Hancock,18-25,South,Bundle
+C2554,Bethany Barrett,18-25,South,Broadband
+C2555,Alan Bryant,18-25,North,TV Package
+C2556,Thomas Miranda,36-50,North,Mobile Plan
+C2557,Jason Wilson DDS,18-25,West,Bundle
+C2558,Austin Berger,51+,South,Broadband
+C2559,Charles Gonzalez,18-25,East,Mobile Plan
+C2560,Erika Hahn,36-50,South,Broadband
+C2561,Kathleen Mccormick,51+,East,TV Package
+C2562,Rebecca Sims,18-25,East,Mobile Plan
+C2563,Jennifer Hayes,36-50,East,Broadband
+C2564,Jessica Willis,18-25,West,TV Package
+C2565,Todd Pham,51+,South,TV Package
+C2566,Chase Foley,36-50,West,Bundle
+C2567,Emily Ward,26-35,West,Mobile Plan
+C2568,John Garcia,18-25,West,Mobile Plan
+C2569,Cindy Evans,18-25,West,Bundle
+C2570,Kenneth Bell,36-50,East,Mobile Plan
+C2571,Jennifer Lopez,51+,East,Bundle
+C2572,Suzanne Williams,18-25,East,Broadband
+C2573,Marcus Williams,36-50,North,Mobile Plan
+C2574,James Mayer,51+,West,Broadband
+C2575,Kimberly Stone,18-25,South,Broadband
+C2576,Justin Hale,26-35,North,Mobile Plan
+C2577,Connor Cook,51+,South,TV Package
+C2578,Tim Tapia,18-25,South,Broadband
+C2579,Anthony Vaughn,26-35,South,Bundle
+C2580,Steven Hall,18-25,South,Broadband
+C2581,Edwin Hunter,18-25,South,TV Package
+C2582,Troy Scott,36-50,East,Mobile Plan
+C2583,John Lee,26-35,South,Broadband
+C2584,Benjamin Woods,18-25,South,Mobile Plan
+C2585,Richard Fitzgerald,18-25,North,Mobile Plan
+C2586,Amber Brady,51+,East,Mobile Plan
+C2587,Anthony Cruz,51+,West,Bundle
+C2588,Christopher Santiago,26-35,South,Broadband
+C2589,Lori Huff,36-50,North,Broadband
+C2590,Jason Becker,18-25,West,Bundle
+C2591,Peter Cooper,26-35,North,Mobile Plan
+C2592,Melissa Phillips,18-25,East,Bundle
+C2593,Elizabeth Ferguson,51+,East,TV Package
+C2594,Victoria Glenn,51+,East,Bundle
+C2595,Holly Soto,51+,East,Bundle
+C2596,Timothy Taylor,18-25,East,Broadband
+C2597,Michael Galloway,51+,East,Bundle
+C2598,Scott Mason,18-25,West,TV Package
+C2599,Jessica Morris,36-50,South,Broadband
+C2600,Russell Smith,26-35,South,Mobile Plan
+C2601,Jason Dixon,51+,North,Bundle
+C2602,Casey Terrell,18-25,East,Bundle
+C2603,Alexis Castaneda,51+,West,Mobile Plan
+C2604,Leslie Ramirez,51+,East,Bundle
+C2605,Rose Acosta,36-50,South,Bundle
+C2606,Jessica Gomez,26-35,East,Bundle
+C2607,Robert Marsh,36-50,West,TV Package
+C2608,Mary Miller,18-25,North,Broadband
+C2609,Robert Perkins,36-50,South,TV Package
+C2610,Leonard Davis,51+,East,Mobile Plan
+C2611,John Frazier,18-25,East,TV Package
+C2612,Stacy Koch,18-25,South,TV Package
+C2613,James Weaver,18-25,North,Mobile Plan
+C2614,Darren Hall,51+,West,TV Package
+C2615,Samantha Ryan,26-35,North,TV Package
+C2616,Tonya Ward,26-35,North,Mobile Plan
+C2617,Benjamin Cook MD,51+,West,Mobile Plan
+C2618,Joanne Walker,51+,West,Mobile Plan
+C2619,Aaron Russell,18-25,East,Mobile Plan
+C2620,Alicia James,36-50,North,Broadband
+C2621,Michael Martin,26-35,South,Bundle
+C2622,Paul Smith,18-25,West,Mobile Plan
+C2623,Julie Jefferson,36-50,East,Mobile Plan
+C2624,Dwayne Gomez,26-35,West,TV Package
+C2625,Michael Mack,51+,East,Bundle
+C2626,Joshua Harris,36-50,North,Mobile Plan
+C2627,Deborah Harris,36-50,South,Bundle
+C2628,Kristine Wright,51+,North,TV Package
+C2629,Joshua Johnson,18-25,West,TV Package
+C2630,Ronald Simpson,18-25,South,Bundle
+C2631,Sheri Brown,36-50,West,Broadband
+C2632,Adam Warner,51+,South,TV Package
+C2633,Tina Diaz,18-25,South,TV Package
+C2634,Candace Beltran,18-25,East,Broadband
+C2635,Stephen Moore,26-35,North,Bundle
+C2636,Nicole Shea,26-35,East,Mobile Plan
+C2637,Deborah Lewis,36-50,West,Mobile Plan
+C2638,Lisa Robles,26-35,West,Broadband
+C2639,Wanda Peterson,36-50,South,TV Package
+C2640,Maria Barton,36-50,North,Mobile Plan
+C2641,Joshua Bennett,51+,South,Mobile Plan
+C2642,Christina Escobar,36-50,North,Broadband
+C2643,Sarah Jones,26-35,South,Bundle
+C2644,Danielle Rivera,26-35,North,Broadband
+C2645,Nicole Rodriguez,36-50,South,TV Package
+C2646,Abigail Simpson,36-50,North,Mobile Plan
+C2647,Jeffery Parker,26-35,South,Bundle
+C2648,Sandra Sharp,51+,North,Mobile Plan
+C2649,Pamela Moses,51+,East,Bundle
+C2650,Jessica Ortega,36-50,South,TV Package
+C2651,Lawrence Lewis,18-25,East,Bundle
+C2652,Samantha Burns,26-35,East,Bundle
+C2653,Matthew Howard,51+,West,Bundle
+C2654,Lori Ruiz,51+,South,TV Package
+C2655,Cindy Lam,18-25,North,Broadband
+C2656,Renee Butler,26-35,South,Bundle
+C2657,Mr. James Stewart,51+,North,Mobile Plan
+C2658,Andrea Santiago,36-50,West,Mobile Plan
+C2659,Robert Conley,18-25,North,TV Package
+C2660,Ruth Maldonado,18-25,East,Mobile Plan
+C2661,Dustin Smith,51+,North,Mobile Plan
+C2662,William Beck,18-25,North,Broadband
+C2663,Christopher Graves,51+,West,Mobile Plan
+C2664,Marie Jackson,26-35,North,Broadband
+C2665,Laura Cervantes,36-50,West,Broadband
+C2666,Randy Sutton,36-50,East,Mobile Plan
+C2667,Joshua Lewis,51+,South,Broadband
+C2668,Michael Sims,18-25,South,Bundle
+C2669,Miranda Robinson,51+,North,TV Package
+C2670,Melissa Pearson,36-50,East,TV Package
+C2671,Courtney Stout,36-50,West,Bundle
+C2672,Tamara Tanner,51+,West,Mobile Plan
+C2673,Patrick Brown,18-25,East,Broadband
+C2674,Cynthia Williams,36-50,South,Broadband
+C2675,Karina Bishop,51+,East,Bundle
+C2676,Amber Bush,18-25,North,Mobile Plan
+C2677,Gwendolyn Campbell,26-35,East,TV Package
+C2678,Carol Foster,51+,North,Mobile Plan
+C2679,Darrell Hampton,36-50,South,Mobile Plan
+C2680,Virginia Kim,18-25,East,Broadband
+C2681,Joseph Sanchez,26-35,North,Broadband
+C2682,David Coleman,26-35,West,Mobile Plan
+C2683,Claudia Thompson,36-50,North,Mobile Plan
+C2684,Janice Sanchez,36-50,North,Bundle
+C2685,Randall Carroll,26-35,South,TV Package
+C2686,Laura Lowery,26-35,North,Broadband
+C2687,Eric Melendez,26-35,North,TV Package
+C2688,Adam Mccarthy,26-35,South,Bundle
+C2689,Daniel Freeman,36-50,South,TV Package
+C2690,Taylor Kelly,26-35,South,Bundle
+C2691,Rodney Rogers,26-35,North,Mobile Plan
+C2692,Joan White,51+,East,Broadband
+C2693,Katie Gray,26-35,North,Bundle
+C2694,Katherine Tran,51+,North,TV Package
+C2695,Erik Glover,26-35,West,Bundle
+C2696,Karen Walker,36-50,North,Broadband
+C2697,Tyler Huerta,26-35,North,Mobile Plan
+C2698,Vanessa Jones,36-50,North,Broadband
+C2699,Justin Carter,51+,West,Mobile Plan
+C2700,Brian Mcmillan,26-35,South,TV Package
+C2701,Amy Nichols,51+,South,Mobile Plan
+C2702,Melissa Gallegos,18-25,South,Broadband
+C2703,Christina King,51+,East,TV Package
+C2704,Bradley Rodriguez,51+,East,TV Package
+C2705,Elizabeth Brown,51+,South,Mobile Plan
+C2706,Sean Duncan,36-50,South,TV Package
+C2707,Anthony Snow,51+,East,TV Package
+C2708,Louis Mcconnell,26-35,South,TV Package
+C2709,Christopher David,51+,East,Bundle
+C2710,Marcus Clark,36-50,West,Broadband
+C2711,Kendra Chavez,51+,East,Broadband
+C2712,Shelley Wright,18-25,South,Mobile Plan
+C2713,Joseph Lewis,26-35,East,Bundle
+C2714,Briana Pierce,51+,South,Mobile Plan
+C2715,Stephanie Peck,18-25,South,Broadband
+C2716,Daniel Smith,26-35,East,TV Package
+C2717,Lauren Huffman,36-50,West,TV Package
+C2718,Paul Allen,18-25,East,Broadband
+C2719,Anna Skinner,18-25,West,Broadband
+C2720,Rhonda Patterson,51+,East,Mobile Plan
+C2721,Andrew Patterson,51+,South,Bundle
+C2722,Wendy Wright,51+,East,TV Package
+C2723,Rebecca Lee,26-35,West,Bundle
+C2724,Randy White,36-50,East,Broadband
+C2725,Sara Blankenship,51+,West,Broadband
+C2726,Samantha Rivera,26-35,North,Mobile Plan
+C2727,Corey Hardy,51+,East,Broadband
+C2728,Hannah Rodriguez,36-50,South,TV Package
+C2729,Caitlin Taylor,36-50,East,Broadband
+C2730,Autumn Jackson,18-25,West,Broadband
+C2731,Karl Ford,36-50,North,Mobile Plan
+C2732,Garrett Peters,18-25,South,Bundle
+C2733,Tracy Blake,36-50,West,TV Package
+C2734,Karen Peterson,18-25,South,Bundle
+C2735,Paul Shaw,26-35,North,Bundle
+C2736,Amanda Taylor,26-35,South,Bundle
+C2737,Steven Austin,51+,South,TV Package
+C2738,Danielle Gross,51+,West,Broadband
+C2739,Charles Christian,18-25,West,TV Package
+C2740,Daniel Mills,26-35,West,TV Package
+C2741,Mary Smith,26-35,East,TV Package
+C2742,Rachel Klein,18-25,East,TV Package
+C2743,James Miller,36-50,North,Bundle
+C2744,Kevin Gonzalez,36-50,North,TV Package
+C2745,Patricia Gutierrez,36-50,South,Bundle
+C2746,Sherry Jennings,18-25,West,Mobile Plan
+C2747,Lisa Vasquez,26-35,West,Broadband
+C2748,Heather Ortega,18-25,South,Broadband
+C2749,Summer Ross,18-25,West,Mobile Plan
+C2750,Joel White,51+,East,Mobile Plan
+C2751,Blake Ponce,36-50,East,Bundle
+C2752,Ashlee Scott,26-35,East,Broadband
+C2753,Cindy Arnold,51+,North,Mobile Plan
+C2754,Michelle Byrd,36-50,West,Bundle
+C2755,Cameron Malone,18-25,North,Broadband
+C2756,Jennifer Bryant,51+,South,Broadband
+C2757,Adam Mendez,18-25,East,TV Package
+C2758,Anna Greene,51+,North,TV Package
+C2759,Robert Yang,36-50,South,Mobile Plan
+C2760,Steven Strong,26-35,South,Broadband
+C2761,Luis Warren,51+,North,TV Package
+C2762,Matthew Strong,36-50,East,TV Package
+C2763,Jose Brady,26-35,West,TV Package
+C2764,Victoria Anderson,26-35,North,Mobile Plan
+C2765,Stefanie Rogers,18-25,West,Bundle
+C2766,William Jenkins,51+,North,TV Package
+C2767,Carrie Brewer,26-35,South,Broadband
+C2768,Roberto Liu,18-25,West,Mobile Plan
+C2769,Janice Dennis,26-35,East,TV Package
+C2770,Manuel Nguyen,51+,South,Bundle
+C2771,Kyle Allen,26-35,North,Mobile Plan
+C2772,Samantha Kennedy,51+,North,Bundle
+C2773,Kimberly Mills,36-50,South,Bundle
+C2774,Justin Trujillo,36-50,East,Broadband
+C2775,Joseph Barker,36-50,North,Mobile Plan
+C2776,Monica Casey,51+,South,TV Package
+C2777,Christopher Holt,26-35,East,TV Package
+C2778,Karen Davila,51+,West,Broadband
+C2779,Lindsey Collier,18-25,East,Mobile Plan
+C2780,Brooke Hunt,18-25,West,TV Package
+C2781,Jeanette Johnston,18-25,East,Bundle
+C2782,Mary Obrien,26-35,North,Bundle
+C2783,David Stanley,18-25,North,Bundle
+C2784,Jay Hansen,51+,North,Mobile Plan
+C2785,Kelly Hampton,36-50,South,Mobile Plan
+C2786,Jason Rich,51+,East,Broadband
+C2787,Patrick Bishop,26-35,South,Mobile Plan
+C2788,Jason Garcia,36-50,North,TV Package
+C2789,Pamela Macdonald,51+,North,Mobile Plan
+C2790,Alec Sharp,18-25,West,Mobile Plan
+C2791,Michele Miller,36-50,North,Mobile Plan
+C2792,Jade Huang,51+,West,Bundle
+C2793,Michelle Johnson,51+,East,TV Package
+C2794,Amy Johnson,36-50,East,TV Package
+C2795,Jennifer Nelson,26-35,South,Mobile Plan
+C2796,Melissa Ross,36-50,West,Mobile Plan
+C2797,Benjamin Conrad,18-25,West,Bundle
+C2798,Rachel Sullivan,51+,North,Broadband
+C2799,Courtney Morgan,26-35,West,Bundle
+C2800,Keith Mcdonald,18-25,North,TV Package
+C2801,Rebecca Suarez,51+,North,Mobile Plan
+C2802,Stephen Williams PhD,18-25,South,Broadband
+C2803,Rachael Townsend,18-25,East,Mobile Plan
+C2804,Walter Banks,26-35,East,Bundle
+C2805,Kevin Gilbert,18-25,South,Mobile Plan
+C2806,Daniel Palmer,18-25,South,Bundle
+C2807,Lindsay Gardner,18-25,West,Bundle
+C2808,Dakota Johnson,18-25,South,Bundle
+C2809,Richard Norman,51+,North,Broadband
+C2810,Pamela Dean,26-35,West,Broadband
+C2811,Charles Santos,36-50,South,Mobile Plan
+C2812,Gregory Oconnell,51+,West,TV Package
+C2813,Stacey Sullivan,36-50,West,Broadband
+C2814,Lori Yoder,36-50,West,TV Package
+C2815,Arthur Cochran,26-35,West,TV Package
+C2816,Ashley Campos,36-50,West,TV Package
+C2817,Brianna Roberts,18-25,North,Bundle
+C2818,James Frederick,51+,North,Broadband
+C2819,Shannon Hopkins,18-25,North,Broadband
+C2820,Gina Price,36-50,North,Mobile Plan
+C2821,Patricia Nielsen,36-50,South,Mobile Plan
+C2822,Sandra Coleman,36-50,South,TV Package
+C2823,Kelly Rivers,36-50,North,TV Package
+C2824,Cristina Santiago DDS,18-25,South,Broadband
+C2825,Emily Miller,51+,North,Bundle
+C2826,Valerie Bryant,26-35,East,Bundle
+C2827,Rebecca Williams,36-50,South,TV Package
+C2828,Debra Perez,26-35,North,Bundle
+C2829,Erika Lewis,36-50,East,Broadband
+C2830,Brandon Clay,26-35,North,Broadband
+C2831,Judy Everett,26-35,South,Broadband
+C2832,Craig Caldwell,51+,South,Broadband
+C2833,Richard Mayer,36-50,East,TV Package
+C2834,Yvette Lewis,26-35,North,Broadband
+C2835,Jeffrey Choi,51+,West,Mobile Plan
+C2836,Barbara Miller,18-25,West,Mobile Plan
+C2837,Joseph Kennedy,51+,East,TV Package
+C2838,Dr. Keith Mathews,36-50,East,Bundle
+C2839,Crystal Gonzales,36-50,West,Bundle
+C2840,Judith Williams,51+,West,TV Package
+C2841,Ronald Clark,36-50,North,TV Package
+C2842,Dr. Michelle Velasquez,18-25,West,TV Package
+C2843,Katie Nolan,26-35,West,Bundle
+C2844,Molly Shaffer,18-25,East,Mobile Plan
+C2845,Danielle Torres,26-35,East,Mobile Plan
+C2846,Jacob Arroyo,51+,East,Broadband
+C2847,David Lee,26-35,North,Mobile Plan
+C2848,Kelly Rhodes,36-50,West,Broadband
+C2849,Robert Morgan,51+,North,Mobile Plan
+C2850,Gregory Smith,51+,North,Broadband
+C2851,Larry Hanson,26-35,East,TV Package
+C2852,Alicia Osborne,36-50,North,TV Package
+C2853,Christian Hopkins,18-25,East,TV Package
+C2854,Cynthia Smith,18-25,West,Bundle
+C2855,Tammy Johnson,36-50,South,TV Package
+C2856,John Davis,26-35,West,TV Package
+C2857,Julia Brown,36-50,East,Mobile Plan
+C2858,Cory Walker DDS,36-50,South,Bundle
+C2859,Lucas Rhodes,18-25,South,Broadband
+C2860,Glenn Morris,36-50,East,Mobile Plan
+C2861,Debra Frost,51+,North,TV Package
+C2862,Michele Sanchez,51+,East,Bundle
+C2863,Christian Norris,26-35,East,TV Package
+C2864,Emily Hodge,18-25,West,TV Package
+C2865,Elizabeth Martinez,36-50,South,TV Package
+C2866,Carlos Fox,18-25,North,Mobile Plan
+C2867,Paige Stewart MD,26-35,East,Mobile Plan
+C2868,James Delacruz,26-35,West,TV Package
+C2869,Kelly Todd,26-35,East,Bundle
+C2870,Lisa Holt,18-25,East,Mobile Plan
+C2871,Brianna Becker,36-50,North,Mobile Plan
+C2872,Stanley Moran,51+,South,Broadband
+C2873,Brianna Delgado,36-50,North,Broadband
+C2874,Robin Mcdaniel,18-25,East,Mobile Plan
+C2875,Theodore Singh,18-25,East,TV Package
+C2876,Jeffrey Barnes,36-50,West,TV Package
+C2877,Jordan Benson,51+,North,Mobile Plan
+C2878,Bruce Rangel,36-50,East,Mobile Plan
+C2879,Megan Clark,18-25,West,Broadband
+C2880,Brandi Marquez,36-50,South,Mobile Plan
+C2881,Connie Cantu,18-25,East,Bundle
+C2882,Monica Hunter,18-25,South,TV Package
+C2883,Holly Reeves MD,51+,South,Mobile Plan
+C2884,Jason Simpson,51+,North,Bundle
+C2885,Richard Ramirez,18-25,North,Mobile Plan
+C2886,Daniel Fleming,26-35,South,Bundle
+C2887,Dawn Williams,36-50,West,Bundle
+C2888,Scott Brown,26-35,North,Bundle
+C2889,John Wilson,26-35,West,Broadband
+C2890,Aaron Avila,26-35,West,TV Package
+C2891,Vanessa Nelson,18-25,North,TV Package
+C2892,Chris Campbell,18-25,West,Broadband
+C2893,Samuel Marks,36-50,West,Mobile Plan
+C2894,Megan Lyons,18-25,West,Broadband
+C2895,James Buck,51+,South,Mobile Plan
+C2896,Pamela Thomas MD,26-35,North,Broadband
+C2897,Catherine Spencer,26-35,West,TV Package
+C2898,Melissa Hughes,26-35,West,TV Package
+C2899,Lindsey Johnson,18-25,North,Mobile Plan
+C2900,Arthur Hodges,36-50,North,Broadband
+C2901,George Medina,26-35,West,TV Package
+C2902,Christine Grant,18-25,West,Broadband
+C2903,Christina Pruitt,51+,South,TV Package
+C2904,Tara Sullivan,18-25,East,Broadband
+C2905,Collin Hall,51+,South,Broadband
+C2906,Dana Edwards,26-35,North,Mobile Plan
+C2907,Tiffany Kim,51+,West,Broadband
+C2908,Melissa Ali,51+,North,Mobile Plan
+C2909,David Fields,36-50,North,TV Package
+C2910,Jessica Lopez,51+,West,TV Package
+C2911,Kayla Bartlett,18-25,West,TV Package
+C2912,Timothy Lara Jr.,18-25,West,Broadband
+C2913,Krista Harris,36-50,North,Mobile Plan
+C2914,Christopher Christian,26-35,West,Mobile Plan
+C2915,Kathryn Moore,18-25,North,Mobile Plan
+C2916,Tracy Patel,18-25,North,Mobile Plan
+C2917,Christopher Cook MD,36-50,South,TV Package
+C2918,Tiffany Hernandez,18-25,East,TV Package
+C2919,Brenda Taylor,26-35,West,Mobile Plan
+C2920,Andrew Hudson,18-25,West,TV Package
+C2921,Melissa Stevenson,26-35,East,Broadband
+C2922,Beth Schwartz,36-50,North,Broadband
+C2923,Jennifer Tanner,51+,East,TV Package
+C2924,Kenneth Spencer,26-35,West,Mobile Plan
+C2925,Jacqueline Harper,36-50,South,TV Package
+C2926,Kenneth Johnson,51+,North,TV Package
+C2927,Chad Mitchell,18-25,West,TV Package
+C2928,Tamara Serrano,18-25,South,Mobile Plan
+C2929,Chad Morales,18-25,North,Bundle
+C2930,Kristopher Davis,51+,South,Bundle
+C2931,Michael Howard,51+,North,Mobile Plan
+C2932,Kevin Parsons,18-25,West,Mobile Plan
+C2933,James Wilson,36-50,East,Bundle
+C2934,Rachel Perez,36-50,North,Bundle
+C2935,Aaron Roy,18-25,South,Mobile Plan
+C2936,Lynn Estrada,36-50,West,Mobile Plan
+C2937,April Crawford MD,18-25,North,Broadband
+C2938,Aaron Cortez,26-35,West,TV Package
+C2939,Ann Goodwin,26-35,South,TV Package
+C2940,Elizabeth Macdonald,26-35,East,Bundle
+C2941,Kathy Joyce,51+,East,Bundle
+C2942,Dr. Judy Schmidt,51+,West,TV Package
+C2943,Catherine Huerta,51+,East,Bundle
+C2944,Ashley Hanna,18-25,South,Bundle
+C2945,Joshua Garcia,26-35,West,Broadband
+C2946,Crystal Mccarthy,51+,South,Broadband
+C2947,Amber Brewer,51+,South,Broadband
+C2948,Jackson Porter,18-25,North,Broadband
+C2949,Nicholas Lamb,18-25,West,Bundle
+C2950,Michael Noble,26-35,East,Mobile Plan
+C2951,Michael Wright,26-35,South,Broadband
+C2952,David Faulkner,26-35,South,Broadband
+C2953,Gregory Leon,26-35,West,Broadband
+C2954,Matthew Fox,51+,North,TV Package
+C2955,Pamela Stewart,51+,North,TV Package
+C2956,Juan Kent,36-50,East,Bundle
+C2957,Timothy Anderson,36-50,West,Bundle
+C2958,Victoria Hall,26-35,East,Broadband
+C2959,Anthony Vazquez,36-50,South,Bundle
+C2960,Victoria Smith,36-50,South,Mobile Plan
+C2961,Paul Shaw,36-50,East,Bundle
+C2962,Stephen Diaz,18-25,South,TV Package
+C2963,Barbara Thomas,36-50,West,Mobile Plan
+C2964,Jason Jones,36-50,North,Mobile Plan
+C2965,Thomas Zimmerman,36-50,North,TV Package
+C2966,Jason Tyler,36-50,South,Broadband
+C2967,Vanessa Bruce,26-35,West,Mobile Plan
+C2968,Jacqueline Vasquez,26-35,East,Mobile Plan
+C2969,Sean Velez,26-35,West,Mobile Plan
+C2970,Eddie Smith,18-25,South,TV Package
+C2971,Sean Brown,36-50,North,Mobile Plan
+C2972,Jennifer White,18-25,North,Broadband
+C2973,Kurt Harris,36-50,North,Mobile Plan
+C2974,Riley Gomez,26-35,West,Mobile Plan
+C2975,Jeffrey Chaney,26-35,East,Broadband
+C2976,Dr. Ricky Bartlett Jr.,36-50,East,TV Package
+C2977,Robert Baker,26-35,South,Broadband
+C2978,Linda Martin,26-35,North,Bundle
+C2979,Rachel Clark,18-25,South,TV Package
+C2980,Andrea Brown,51+,West,Broadband
+C2981,Elizabeth Taylor,36-50,North,Mobile Plan
+C2982,Theodore Fletcher,26-35,South,Broadband
+C2983,Angelica Anderson,26-35,West,Bundle
+C2984,Brandy Fisher,18-25,East,TV Package
+C2985,Robert Little,51+,East,Bundle
+C2986,Maria Fowler,36-50,North,TV Package
+C2987,Lisa Cummings,18-25,North,Bundle
+C2988,Maxwell Choi,18-25,West,TV Package
+C2989,Anna Vasquez,18-25,East,Bundle
+C2990,Andrew Chavez,18-25,North,Bundle
+C2991,Lisa Garcia,18-25,South,Bundle
+C2992,Christopher Kim,51+,West,TV Package
+C2993,Jordan Fisher,36-50,North,TV Package
+C2994,Deborah Chapman,36-50,South,Mobile Plan
+C2995,Jamie Smith,26-35,North,Broadband
+C2996,Taylor Mason,36-50,East,TV Package
+C2997,Jasmine Garcia,36-50,South,Bundle
+C2998,James Newman,26-35,East,Bundle
+C2999,Mark Medina,36-50,West,TV Package

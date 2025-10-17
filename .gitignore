@@ -1,0 +1,21 @@
+# Power BI temporary files
+*.pbit.bak
+*.pbix.lock
+
+# User-specific settings
+*.pbix.user
+
+# Cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env.*
+!.env.example
+
+# OS-specific files
+.DS_Store
+Thumbs.db
